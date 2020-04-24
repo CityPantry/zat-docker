@@ -7,3 +7,5 @@ Example usage:
 docker run -v /path/to/files:/src citypantry/zat update
 ```
 
+[Dockerize](https://github.com/jwilder/dockerize) is included for your convenience.
+
